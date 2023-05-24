@@ -6,7 +6,7 @@ public class divisionWithoutOperator {
 Write a method that can divide two numbers without using division operator.
      */
 
-    public static void divide(int num1, int num2){
+     public static void divide(int num1, int num2){
         int count =0;
 
         while(num1 >= num2){
@@ -17,6 +17,8 @@ Write a method that can divide two numbers without using division operator.
     }
 
     public static void main(String[] args) {
+
         divide(20,3);
+
     }
 }
