@@ -1,6 +1,6 @@
 package week1;
 
-public class finra {
+public class minavar_finra {
     /*
     3️⃣  Numbers -- FINRA
 Write a method that prints out the numbers from 1 to 30 but;

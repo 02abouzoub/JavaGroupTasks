@@ -1,6 +1,6 @@
 package week1;
 
-public class oddOrEven {
+public class minavar_oddOrEven {
     /*
    1️⃣  Numbers -- odd & even
 Write a method that can identify  a given number is even or odd.

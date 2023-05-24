@@ -1,6 +1,6 @@
 package week1;
 
-public class divisionWithoutOperator {
+public class minavar_divisionWithoutOperator {
     /*
     2️⃣  Numbers -- Divide without / operator
 Write a method that can divide two numbers without using division operator.
