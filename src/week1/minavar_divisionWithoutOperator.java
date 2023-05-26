@@ -7,6 +7,11 @@ Write a method that can divide two numbers without using division operator.
      */
 
      public static void divide(int num1, int num2){
+
+         if(num2 <= 0){
+             System.err.println("Invalid entry");
+             System.exit(1);
+         }
         int count =0;
 
         while(num1 >= num2){
@@ -18,7 +23,7 @@ Write a method that can divide two numbers without using division operator.
 
     public static void main(String[] args) {
 
-        divide(20,3);
+        divide(20,6);
 
     }
 }
