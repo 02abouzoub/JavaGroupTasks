@@ -1,4 +1,4 @@
-public class DivisionWithOutOperator {
+public class DivisionWithOutOperator_salem {
 
     public static void division(int num1, int num2) {
 

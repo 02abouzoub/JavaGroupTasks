@@ -1,4 +1,4 @@
-public class Identify {
+public class Identify_salem {
 
     public static void  identify(int number) {
         if (number % 2 == 0) {
