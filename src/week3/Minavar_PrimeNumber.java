@@ -1,6 +1,6 @@
 package week3;
 
-public class PrimeNumber {
+public class Minavar_PrimeNumber {
     /*
      1) Numbers - Prime Number
 Write a method that can check if a number is prime or not

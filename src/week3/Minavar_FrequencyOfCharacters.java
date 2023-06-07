@@ -1,6 +1,6 @@
 package week3;
 
-public class FrequencyOfCharacters {
+public class Minavar_FrequencyOfCharacters {
     /*
     3) String - Frequency of Characters
 Write a return method that can find the frequency of characters
