@@ -1,4 +1,4 @@
-public class FINRA {
+public class FINRA_salem {
     public static void Finra() {
 
         for (int i = 1; i <= 30; i++) {
