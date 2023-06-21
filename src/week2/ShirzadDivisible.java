@@ -1,3 +1,5 @@
+package week2;
+
 public class ShirzadDivisible {
 
     public static void main(String[] args) {

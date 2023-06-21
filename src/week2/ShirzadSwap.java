@@ -1,3 +1,5 @@
+package week2;
+
 public class ShirzadSwap {
 
     public static void main(String[] args) {
